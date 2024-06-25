@@ -6,6 +6,6 @@ As an intern at Psyliq, my project involves analyzing sales data from a pharmace
 
 During my internship at Psyliq, I focused on analyzing sales data from Paytm. This involved using MS Excel for data cleaning and SQL for querying specific questions to extract insights from the dataset. The Paytm sales data included details such as distributor, customer information, sales channels, product details, quantities, prices, and sales figures. My goal was to leverage SQL to uncover patterns in sales, customer behavior, and financial metrics, providing valuable insights through data analysis
 
-# [Project 2: HR Data Analysis using SQL](https://github.com/pradyumna-burly/SQL-Project-HR_Data_Analysis)
+# [Project 3: HR Data Analysis using SQL](https://github.com/pradyumna-burly/SQL-Project-HR_Data_Analysis)
 
 During my internship at Psyliq, I concentrated on HR data analysis using SQL. Employing MS Excel for data preparation and SQL for querying, I explored employee details, job roles, salaries, performance metrics, and organizational structures. My aim was to derive insights into employee performance, organizational dynamics, and HR trends, supporting Psyliq's strategic HR initiatives with valuable data-driven perspectives.
